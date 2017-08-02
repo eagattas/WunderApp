@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Wonderful Weather App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Confirm</string>
+    <string name="today">Today</string>
+    <string name="historic">Historic</string>
+    <string name="current_location">Current Location</string>
+    <string name="detroit">Detroit, Michigan</string>
+    <string name="other">Other</string>
+    <string name="choose_location">Location</string>
+    <string name="choose_info">Weather Info</string>
+    <string name="zip_code">Enter Zip Code</string>
+    <string name="new_request">New Request</string>
+    <string name="los_angeles">Los Angeles, California</string>
+    <string name="miami">Miami, Florida</string>
+    <string name="loading">Loading...</string>
+    <string name="more">More</string>
+    <string name="more_features">More Features</string>
+    <string name="compare_two_cities">Compare Two Cities</string>
+    <string name="location1">Location 1</string>
+    <string name="location2">Location 2</string>
+</resources>
